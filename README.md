@@ -87,6 +87,8 @@ beq  x9,  x9,  12      // I_Mem[11] — branch always taken (x9==x9)
 
 ---
 
+![Simulation Waveform](waveform.png)
+
 ## Key Design Decisions
 
 **Combinational instruction memory read** — the instruction memory uses a combinational `assign` for the read port so the instruction is available immediately after the PC updates, with no added clock latency.
