@@ -126,11 +126,9 @@ beq  x9,  x9,  12      // I_Mem[11] — branch always taken (x9==x9)
 
 - Patterson & Hennessy — *Computer Organization and Design: RISC-V Edition* (2nd Ed.)
 - [RISC-V ISA Specification](https://riscv.org/technical/specifications/)
-- [EDA Playground](https://www.edaplayground.com/) — for quick online Verilog simulation
 
 ---
 
 ## Author
 
-**Rohan Banik** — 2nd year VLSI student  
-Built during summer 2026 as part of a self-directed RTL learning plan.
+**Rohan Pal Banik** — 2nd year VLSI student  
